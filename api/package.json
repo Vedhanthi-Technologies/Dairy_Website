@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "nodemailer": "^6.9.14",
+    "nodemon": "^3.1.4"
+  },
+  "name": "diary_products",
+  "version": "1.0.0",
+  "description": "Website for Diary Products with Mail Service",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vedhanthi-Technologies/Diary_Website.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Javascript",
+    "Nodemail",
+    "Sass",
+    "Bootstrap",
+    "MongoDB"
+  ],
+  "author": "Vishnu Thangaraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vedhanthi-Technologies/Diary_Website/issues"
+  },
+  "homepage": "https://github.com/Vedhanthi-Technologies/Diary_Website#readme"
+}
